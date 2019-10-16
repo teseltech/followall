@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Followall – Wall off your content, grow your brand
+title: Followall – Grow your brand
 email: followall@tesel.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Followall is a tool that lets you ask users for social media engament in
