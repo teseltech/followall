@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Followall – Grow your brand
+title: Followall – Get followers that matter
 email: followall@tesel.tech
 description: >- # this means to ignore newlines until "baseurl:"
-  Followall is a tool that lets you ask users for social media engament in
-  exchange for access to parts of your content. It's a great way to grow your
-  brand and figure out which of your users wish to engage more deeply with the
-  content you are producing.
+  You're self-producing content to drive traffic through your website
+  and build your brand? You're asking people to engage with you on
+  social media without results? Your analytics tell you that traffic
+  has gone up but your call to action is getting ignored?. You need Followall!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://followall.tesel.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: teselmx
@@ -41,6 +41,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
