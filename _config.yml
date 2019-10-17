@@ -34,7 +34,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/logo-og-image.png # imagen para Open Graph
+      image: /assets/logo-og-image.png # imagen para Open Graph
 
 # Build settings
 theme: minima
